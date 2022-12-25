@@ -1,0 +1,2 @@
+# krasota.github.io
+salon
